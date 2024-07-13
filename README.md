@@ -22,18 +22,18 @@ This specialization equips you to:
 
 [📁] **Course Structure:**
 
-*   [Course 1: Linear Algebra for Machine Learning and Data Science]([Link to your course 1 folder or notes])
-*   [Course 2: Calculus for Machine Learning and Data Science]([Link to your course 2 folder or notes])
-*   [Course 3: Probability & Statistics for Machine Learning & Data Science]([Link to your course 3 folder or notes])
+*   Course 1: Linear Algebra for Machine Learning and Data Science
+*   Course 2: Calculus for Machine Learning and Data Science
+*   Course 3: Probability & Statistics for Machine Learning & Data Science
 
 [⚙️] **Optimization Highlights:**
 
-*   **Gradient Descent:** 
-*   **Newton's Method:** 
+*   **Gradient Descent** 
+*   **Newton's Method** 
 
 [💾] **Data Manipulation Highlights:**
 
-*   **Principal Component Analysis (PCA):**
-*   **Outlier Handling with IQR:**
+*   **Principal Component Analysis (PCA)**
+*   **Outlier Handling with IQR**
 
 
