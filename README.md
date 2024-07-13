@@ -1,5 +1,5 @@
 # Mathematics for Machine Learning and Data Science Specialization 
-[DeepLearning.AI Logo]
+
 
 Sharpen your mathematical skills and unlock the power of machine learning and data science. This repository contains my notes, code, and resources from the Mathematics for Machine Learning and Data Science Specialization on Coursera, offered by DeepLearning.AI.
 
@@ -28,17 +28,12 @@ This specialization equips you to:
 
 [⚙️] **Optimization Highlights:**
 
-*   **Gradient Descent:**  [Link to your gradient descent code or notes]
-*   **Newton's Method:**  [Link to your Newton's method code or notes]
+*   **Gradient Descent:** 
+*   **Newton's Method:** 
 
 [💾] **Data Manipulation Highlights:**
 
-*   **Principal Component Analysis (PCA):** [Link to your PCA code or notes]
-*   **Outlier Handling with IQR:** [Link to your IQR code or notes]
+*   **Principal Component Analysis (PCA):**
+*   **Outlier Handling with IQR:**
 
-## 🏆 My Personal Journey & Takeaways 🏆
 
-[Space for you to share your personal experiences and insights from the course]
-
----
-[Python Badge] [Coursera Badge] [DeepLearning.AI Badge]
